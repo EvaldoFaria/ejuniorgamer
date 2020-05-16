@@ -1,0 +1,41 @@
+body {
+    background-image: url('https://i.imgur.com/xaaT1PU.png');
+    background-size: auto 100vh;
+    font-family: cursive;
+  }
+  
+  
+  .menu{
+    background-image: url('https://www.lefthudson.com/wp-content/uploads/2019/11/blue-green-wallpapers-beautiful-free-download-44-hd-green-wallpapers-for-windows-and-mac-systems-combination-of-blue-green-wallpapers.jpg');
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: grey;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  .site-title, 
+  .site-subtitle { 
+    color: gold;
+    text-align: center;
+  }
+   
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
